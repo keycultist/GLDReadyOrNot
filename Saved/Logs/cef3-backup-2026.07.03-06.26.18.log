@@ -1,0 +1,13 @@
+[10004:8544:0703/134515.300:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[10004:8544:0703/134515.320:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[10004:8544:0703/134515.376:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[28008:22148:0703/134519.396:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B6BB86DD82D119FC43C1AB7C2B458F24 will be ignored
+[10004:21724:0703/134522.048:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[10004:21724:0703/135130.778:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[27712:26796:0703/135132.577:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[10004:2548:0703/135132.652:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[10004:44052:0703/141856.841:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[27712:26796:0703/141857.322:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[10004:21724:0703/141858.991:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[10004:8544:0703/141900.307:ERROR:device_event_log_impl.cc(196)] [14:19:00.286] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[10004:8544:0703/142618.779:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
