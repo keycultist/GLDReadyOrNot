@@ -1,2 +1,3 @@
-2026/07/14-13:27:24.780 8ec0 Creating DB C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
-2026/07/14-13:27:24.804 8ec0 Reusing MANIFEST C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/07/14-13:35:48.239 d9c8 Reusing MANIFEST C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/07/14-13:35:48.249 d9c8 Recovering log #3
+2026/07/14-13:35:48.252 d9c8 Reusing old log C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 

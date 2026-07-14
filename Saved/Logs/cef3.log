@@ -1,12 +1,12 @@
-[23064:50136:0714/132724.328:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[23064:50136:0714/132724.419:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[23064:25128:0714/132724.510:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[23064:50136:0714/132724.588:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[23064:25128:0714/132730.556:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[23064:25128:0714/132730.559:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[23064:25128:0714/132730.563:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[23064:25128:0714/132730.567:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[23064:57772:0714/132731.390:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[23064:57772:0714/132731.404:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[50564:732:0714/132732.748:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-9449EBDB1BC11F0F7BDB2D4EC89D9E68 will be ignored
-[23064:50136:0714/133453.370:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[2896:31696:0714/204400.642:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[2896:7956:0714/204400.830:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[2896:31696:0714/204400.918:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[2524:28572:0714/204407.507:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-91C464AB9CD14D01235EFD7E62FBBFD2 will be ignored
+[32232:32236:0714/204418.758:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[32232:33076:0714/204418.800:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[32232:32236:0714/204418.824:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[33324:33332:0714/204425.073:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-9EAC62F29A5E68A75BAD3C346F9ADCCA will be ignored
+[32232:32236:0714/204426.950:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[2896:31696:0714/210325.671:ERROR:device_event_log_impl.cc(196)] [21:03:25.536] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[2896:31696:0715/010038.873:ERROR:device_event_log_impl.cc(196)] [01:00:38.872] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[2896:31696:0715/010901.787:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
