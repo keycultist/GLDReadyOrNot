@@ -1,3 +1,2 @@
-2026/07/07-11:29:45.860 6548 Reusing MANIFEST C:\Users\admin\Downloads\FPSGameStarterKit_UE5\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/07/07-11:29:45.869 6548 Recovering log #4
-2026/07/07-11:29:45.877 6548 Reusing old log C:\Users\admin\Downloads\FPSGameStarterKit_UE5\Saved\webcache_6613\Default\Local Storage\leveldb/000004.log 
+2026/07/15-00:39:46.180 3c98 Creating DB C:\Users\Admin\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/07/15-00:39:46.198 3c98 Reusing MANIFEST C:\Users\Admin\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
