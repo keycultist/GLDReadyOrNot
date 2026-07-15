@@ -1,2 +1,3 @@
-2026/07/14-20:44:00.943 76d8 Creating DB C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_1\Default\Sync Data\LevelDB since it was missing.
-2026/07/14-20:44:00.970 76d8 Reusing MANIFEST C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_1\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/07/15-08:43:56.841 341c Reusing MANIFEST C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_1\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/07/15-08:43:56.842 341c Recovering log #3
+2026/07/15-08:43:56.843 341c Reusing old log C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_1\Default\Sync Data\LevelDB/000003.log 
