@@ -1,10 +1,10 @@
-[12656:22708:0715/105300.969:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[12656:22708:0715/105301.075:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[12656:24480:0715/105303.987:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Admin\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Admin\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[12656:24480:0715/105303.991:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Admin\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Admin\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[12656:24480:0715/105303.993:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Admin\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Admin\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[12656:24480:0715/105303.996:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Admin\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Admin\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[12656:40392:0715/105304.375:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[12656:40392:0715/105304.376:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[17788:32740:0715/105305.780:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A90EA67148604F59E08CD17C66BF192A will be ignored
-[12656:22708:0715/120633.319:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[30996:30736:0716/094544.326:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[30996:30736:0716/094544.398:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[30996:8496:0716/094544.463:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[30996:30736:0716/094544.532:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[30996:30736:0716/094552.555:ERROR:device_event_log_impl.cc(196)] [09:45:52.381] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[23624:30872:0716/094552.642:ERROR:backend_impl.cc(989)] Critical error found -8
+[23624:30872:0716/094552.643:ERROR:entry_impl.cc(1029)] No file for b2020000
+[23624:30872:0716/094552.690:WARNING:storage_block-inl.h(138)] Failed data load.
+[12948:6188:0716/094554.184:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3B12D88AB0CDABD77E543BFB03460844 will be ignored
+[30996:30736:0716/095418.955:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
