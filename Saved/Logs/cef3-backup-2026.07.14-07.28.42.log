@@ -1,20 +1,0 @@
-[55200:40080:0714/133548.077:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[55200:50592:0714/133548.127:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[55200:40080:0714/133548.151:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[55200:12316:0714/133551.601:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[55200:12316:0714/133551.608:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[55200:12316:0714/133551.612:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[55200:12316:0714/133551.615:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[55200:40980:0714/133552.309:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[55200:40980:0714/133552.314:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[35996:60600:0714/133554.317:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-DC6F13BEA6E4D07A5A9955EE79FE674D will be ignored
-[55200:40080:0714/133833.664:ERROR:device_event_log_impl.cc(196)] [13:38:33.486] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[55200:40080:0714/145935.212:ERROR:device_event_log_impl.cc(196)] [14:59:34.982] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[4568:58688:0714/152815.301:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[55200:40980:0714/152815.312:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[4568:50000:0714/152820.318:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[55200:40980:0714/152820.318:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[55200:40980:0714/152830.324:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[4568:56584:0714/152830.325:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[55200:40980:0714/152842.676:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[4568:50000:0714/152842.701:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
