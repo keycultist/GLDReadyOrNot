@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/woozh/OneDrive/Desktop/GLDReadyOrNot/Content/FPS_Game/Maps/Level_5.umap",
+				"C:/Users/woozh/OneDrive/Desktop/GLDReadyOrNot/Content/FPS_Game/Maps/Level_5_BuiltData.uasset",
+				"D:/UE_5.7/Engine/Content/EngineSky/M_SimpleSkyDome.uasset",
+				"C:/Users/woozh/OneDrive/Desktop/GLDReadyOrNot/Content/FPS_Game/Maps/_GENERATED/woozh/Boolean_3099893B.uasset",
+				"C:/Users/woozh/OneDrive/Desktop/GLDReadyOrNot/Content/FPS_Game/Maps/_GENERATED/woozh/Box_0ECF691B.uasset",
+				"C:/Users/woozh/OneDrive/Desktop/GLDReadyOrNot/Content/FPS_Game/Maps/_GENERATED/woozh/Box_51DD89E8.uasset",
+				"C:/Users/woozh/OneDrive/Desktop/GLDReadyOrNot/Content/FPS_Game/Blueprints/Bonus/LevelDesign/BP_Elevator.uasset",
 				"C:/Users/Admin/Downloads/FPSGameStarterKit_UE5/FPSGameStarterKit_UE5/Content/FPS_Game/Maps/Level_1.umap",
 				"C:/Users/Admin/Downloads/FPSGameStarterKit_UE5/FPSGameStarterKit_UE5/Content/FPS_Game/Blueprints/Bonus/TutorialPrompt/BP_TutorialPrompt.uasset",
 				"C:/Users/Admin/Downloads/FPSGameStarterKit_UE5/FPSGameStarterKit_UE5/Content/FPS_Game/Maps/_GENERATED/Admin/CubeGridToolOutput_A196BD3C.uasset",
