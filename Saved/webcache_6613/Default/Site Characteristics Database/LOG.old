@@ -1,5 +1,1 @@
-2026/07/19-21:52:03.609 387c Log #3: 18 ops saved to Table #4 OK
-2026/07/19-21:52:03.614 387c Archiving C:\Users\woozh\OneDrive\Desktop\GLDReadyOrNot\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
-2026/07/19-21:52:03.615 387c Table #4: 18 entries OK
-2026/07/19-21:52:03.617 387c Archiving C:\Users\woozh\OneDrive\Desktop\GLDReadyOrNot\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/07/19-21:52:03.634 387c **** Repaired leveldb C:\Users\woozh\OneDrive\Desktop\GLDReadyOrNot\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 375 bytes. Some data may have been lost. ****
+2026/07/19-21:52:03.639 387c Reusing MANIFEST C:\Users\woozh\OneDrive\Desktop\GLDReadyOrNot\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
