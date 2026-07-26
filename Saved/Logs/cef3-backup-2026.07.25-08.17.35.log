@@ -1,0 +1,21 @@
+[36292:5096:0724/234359.053:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[36292:5096:0724/234359.231:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[36292:12184:0724/234402.161:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\woozh\OneDrive\Desktop\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\woozh\OneDrive\Desktop\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36292:12184:0724/234402.164:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\woozh\OneDrive\Desktop\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\woozh\OneDrive\Desktop\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36292:12184:0724/234402.169:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\woozh\OneDrive\Desktop\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\woozh\OneDrive\Desktop\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36292:12184:0724/234402.172:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\woozh\OneDrive\Desktop\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\woozh\OneDrive\Desktop\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36292:45856:0724/234402.782:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36292:45856:0724/234402.786:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[42648:44900:0724/234404.789:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D90A9252C056C92AA3C77A7738221D0C will be ignored
+[36292:12184:0725/134045.879:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[39332:25220:0725/134045.882:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[39332:26764:0725/134045.973:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[36292:23544:0725/134045.976:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[36292:23544:0725/134046.050:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[39332:26764:0725/134046.071:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[36292:5096:0725/134053.344:ERROR:device_event_log_impl.cc(196)] [13:40:53.077] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[36292:5096:0725/134055.336:ERROR:device_event_log_impl.cc(196)] [13:40:55.178] USB: usb_service_win.cc:73 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+[36292:5096:0725/134055.337:ERROR:device_event_log_impl.cc(196)] [13:40:55.293] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[36292:5096:0725/140345.778:ERROR:device_event_log_impl.cc(196)] [14:03:45.760] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[36292:5096:0725/140750.749:ERROR:device_event_log_impl.cc(196)] [14:07:50.444] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[36292:5096:0725/161735.496:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
