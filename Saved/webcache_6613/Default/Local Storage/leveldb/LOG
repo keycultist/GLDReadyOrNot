@@ -1,3 +1,6 @@
-2026/07/28-10:21:18.510 74cc Reusing MANIFEST C:\Users\woozh\OneDrive\Desktop\GLDReadyOrNot\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/07/28-10:21:18.514 74cc Recovering log #3
-2026/07/28-10:21:18.521 74cc Reusing old log C:\Users\woozh\OneDrive\Desktop\GLDReadyOrNot\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/07/28-19:37:59.250 3730 Reusing MANIFEST C:\Users\woozh\OneDrive\Desktop\GLDReadyOrNot\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/07/28-19:37:59.262 3730 Recovering log #3
+2026/07/28-19:37:59.268 3730 Reusing old log C:\Users\woozh\OneDrive\Desktop\GLDReadyOrNot\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/07/29-00:22:43.503 8a4c Level-0 table #5: started
+2026/07/29-00:22:43.513 8a4c Level-0 table #5: 61323 bytes OK
+2026/07/29-00:22:43.516 8a4c Delete type=0 #3
