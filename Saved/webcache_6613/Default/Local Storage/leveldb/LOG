@@ -1,3 +1,5 @@
-2026/07/21-00:20:31.445 dac Reusing MANIFEST C:\Users\Admin\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/07/21-00:20:31.462 dac Recovering log #3
-2026/07/21-00:20:31.466 dac Reusing old log C:\Users\Admin\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/07/27-04:29:12.897 88fc Reusing MANIFEST C:\Users\Admin\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/07/27-04:29:12.911 88fc Recovering log #3
+2026/07/27-04:29:12.913 88fc Reusing old log C:\Users\Admin\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/07/27-04:31:22.032 5604 Level-0 table #5: started
+2026/07/27-04:31:22.039 5604 Level-0 table #5: 58332 bytes OK
