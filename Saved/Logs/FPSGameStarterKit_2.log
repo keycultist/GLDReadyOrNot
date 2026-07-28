@@ -2699,6 +2699,7 @@ FPackageName: Skipped package /Engine/EngineMeshes/Humanoid has a valid, mounted
 [2026.07.18-21.39.15:261][432]LogSlate: Could not load file for Slate resource: [../../../Engine/Plugins/Experimental/GeometryDataflow/Resources/Icon128.png] file: [../../../Engine/Plugins/Experimental/GeometryDataflow/Resources/Icon128.png]
 [2026.07.18-21.39.15:261][432]LogSlate: Could not load file for Slate resource: [../../../Engine/Plugins/Runtime/GeometryProcessing/Resources/Icon128.png] file: [../../../Engine/Plugins/Runtime/GeometryProcessing/Resources/Icon128.png]
 [2026.07.18-21.39.15:263][432]LogSlate: Could not load file for Slate resource: [../../../Engine/Plugins/Experimental/HairCardGenerator/Resources/Icon128.png] file: [../../../Engine/Plugins/Experimental/HairCardGenerator/Resources/Icon128.png]
+<<<<<<< Updated upstream
 [2026.07.18-21.40.21:134][849]LogSlate: Window 'Plugins' being destroyed
 [2026.07.18-21.40.21:153][849]LogSlate: Window 'Plugins' being destroyed
 [2026.07.18-21.41.03:689][853]LogStreaming: Display: FlushAsyncLoading(400): 1 QueuedPackages, 0 AsyncPackages
@@ -2919,3 +2920,5 @@ FPackageName: Skipped package /Engine/EngineMeshes/Humanoid has a valid, mounted
 [2026.07.18-21.43.39:383][764]LogD3D12RHI: ~FD3D12DynamicRHI
 [2026.07.18-21.43.39:467][764]LogExit: Exiting.
 [2026.07.18-21.43.39:512][764]Log file closed, 07/19/26 05:43:39
+=======
+>>>>>>> Stashed changes
