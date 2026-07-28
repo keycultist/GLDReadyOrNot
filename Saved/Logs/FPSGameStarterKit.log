@@ -3220,3 +3220,6 @@ Script Stack (2 frames) :
 [2026.07.28-04.02.11:655][408]RenderDocPlugin: plugin has been unloaded.
 [2026.07.28-04.02.11:657][408]LogXGEController: Cleaning working directory: C:/Users/woozh/AppData/Local/Temp/UnrealXGEWorkingDir/
 [2026.07.28-04.02.11:661][408]LogPakFile: Destroying PakPlatformFile
+[2026.07.28-04.02.13:064][408]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.07.28-04.02.13:229][408]LogExit: Exiting.
+[2026.07.28-04.02.13:256][408]Log file closed, 07/28/26 12:02:13
