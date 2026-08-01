@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 2026/07/31-21:22:02.896 79e0 Reusing MANIFEST C:\Users\woozh\OneDrive\Desktop\GLDReadyOrNot\Saved\webcache_6613\Default\Session Storage/MANIFEST-000001
 2026/07/31-21:22:02.897 79e0 Recovering log #3
 2026/07/31-21:22:02.900 79e0 Reusing old log C:\Users\woozh\OneDrive\Desktop\GLDReadyOrNot\Saved\webcache_6613\Default\Session Storage/000003.log 
@@ -7,3 +8,7 @@
 2026/07/31-18:32:29.967 10a5c Recovering log #3
 2026/07/31-18:32:29.970 10a5c Reusing old log C:\Users\szeyee\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\Session Storage/000003.log 
 >>>>>>> origin/szeyee
+=======
+2026/07/14-13:27:32.504 8ec0 Creating DB C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\Session Storage since it was missing.
+2026/07/14-13:27:32.524 8ec0 Reusing MANIFEST C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\Session Storage/MANIFEST-000001
+>>>>>>> Mavelle

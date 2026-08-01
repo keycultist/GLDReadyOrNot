@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 2026/08/01-11:30:09.679 4110 Creating DB C:\Users\szeyee\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\shared_proto_db since it was missing.
 2026/08/01-11:30:09.684 4110 Reusing MANIFEST C:\Users\szeyee\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\shared_proto_db/MANIFEST-000001
+=======
+2026/08/01-21:29:19.308 7434 Reusing MANIFEST C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\shared_proto_db/MANIFEST-000001
+2026/08/01-21:29:19.308 7434 Recovering log #3
+2026/08/01-21:29:19.309 7434 Reusing old log C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\shared_proto_db/000003.log 
+>>>>>>> Mavelle

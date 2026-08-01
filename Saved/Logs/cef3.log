@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 [31112:3844:0801/202847.005:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
 [31112:3844:0801/202847.383:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
 [31112:15632:0801/202851.594:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\woozh\OneDrive\Desktop\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\woozh\OneDrive\Desktop\GLDReadyOrNot\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
@@ -17,3 +18,10 @@
 [24104:13656:0801/113011.710:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-58EA8C3B372243DE905A7B5C86B4B66A will be ignored
 [25920:25924:0801/155050.431:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
 >>>>>>> origin/szeyee
+=======
+[3232:8808:0801/212917.003:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[3232:19864:0801/212917.041:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[3232:8808:0801/212917.064:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[13572:21072:0801/212920.796:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-063222E1A92B5C3BA5EC5A9E8AA31208 will be ignored
+[3232:8808:0801/213128.286:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+>>>>>>> Mavelle
