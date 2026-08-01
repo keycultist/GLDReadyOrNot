@@ -14,7 +14,26 @@
       "taxonomy_version": 0,
       "top_topics_and_observing_domains": [  ]
    }, {
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "calculation_time": "13428942729245481",
+=======
+      "calculation_time": "13428844098811209",
+>>>>>>> origin/szeyee
+      "config_version": 0,
+      "model_version": "0",
+      "padded_top_topics_start_index": 0,
+      "taxonomy_version": 0,
+      "top_topics_and_observing_domains": [  ]
+   }, {
+<<<<<<< HEAD
+      "calculation_time": "13429547529315894",
+=======
+      "calculation_time": "13429529499866658",
+>>>>>>> origin/szeyee
+=======
       "calculation_time": "13428480451595177",
+>>>>>>> Mavelle
       "config_version": 0,
       "model_version": "0",
       "padded_top_topics_start_index": 0,
@@ -22,5 +41,13 @@
       "top_topics_and_observing_domains": [  ]
    } ],
    "hex_encoded_hmac_key": "B52E8951E8BE08F00BD462FF5A4C7407ACB214C2166B6E38946E9E4BE2E43823",
+<<<<<<< HEAD
+<<<<<<< HEAD
+   "next_scheduled_calculation_time": "13430152329358064"
+=======
+   "next_scheduled_calculation_time": "13430134299868656"
+>>>>>>> origin/szeyee
+=======
    "next_scheduled_calculation_time": "13429085251596273"
+>>>>>>> Mavelle
 }

@@ -1,3 +1,14 @@
+<<<<<<< HEAD
 2026/08/01-22:21:37.014 3104 Reusing MANIFEST C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\Session Storage/MANIFEST-000001
 2026/08/01-22:21:37.015 3104 Recovering log #3
 2026/08/01-22:21:37.018 3104 Reusing old log C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\Session Storage/000003.log 
+=======
+<<<<<<< HEAD
+2026/08/01-11:30:11.376 3bb4 Creating DB C:\Users\szeyee\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\Session Storage since it was missing.
+2026/08/01-11:30:11.389 3bb4 Reusing MANIFEST C:\Users\szeyee\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\Session Storage/MANIFEST-000001
+=======
+2026/08/01-21:29:20.477 85b4 Reusing MANIFEST C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\Session Storage/MANIFEST-000001
+2026/08/01-21:29:20.478 85b4 Recovering log #3
+2026/08/01-21:29:20.480 85b4 Reusing old log C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\Session Storage/000003.log 
+>>>>>>> Mavelle
+>>>>>>> main

@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+2026/07/31-19:09:32.677 49b8 Reusing MANIFEST C:\Users\szeyee\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_1\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/07/31-19:09:32.680 49b8 Recovering log #3
+2026/07/31-19:09:32.681 49b8 Reusing old log C:\Users\szeyee\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_1\Default\Sync Data\LevelDB/000003.log 
+=======
 2026/07/15-12:19:06.970 7024 Reusing MANIFEST C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_1\Default\Sync Data\LevelDB/MANIFEST-000001
 2026/07/15-12:19:06.972 7024 Recovering log #3
 2026/07/15-12:19:06.972 7024 Reusing old log C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_1\Default\Sync Data\LevelDB/000003.log 
+>>>>>>> Mavelle
