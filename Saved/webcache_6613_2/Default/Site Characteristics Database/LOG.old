@@ -1,3 +1,14 @@
+<<<<<<< Updated upstream
 2026/08/01-22:13:16.023 75d8 Reusing MANIFEST C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\Site Characteristics Database/MANIFEST-000001
 2026/08/01-22:13:16.024 75d8 Recovering log #3
 2026/08/01-22:13:16.024 75d8 Reusing old log C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\Site Characteristics Database/000003.log 
+=======
+<<<<<<< HEAD
+2026/08/01-11:30:05.558 7238 Creating DB C:\Users\szeyee\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\Site Characteristics Database since it was missing.
+2026/08/01-11:30:05.564 7238 Reusing MANIFEST C:\Users\szeyee\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\Site Characteristics Database/MANIFEST-000001
+=======
+2026/08/01-21:29:17.075 4590 Reusing MANIFEST C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\Site Characteristics Database/MANIFEST-000001
+2026/08/01-21:29:17.076 4590 Recovering log #3
+2026/08/01-21:29:17.077 4590 Reusing old log C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\Site Characteristics Database/000003.log 
+>>>>>>> Mavelle
+>>>>>>> Stashed changes
