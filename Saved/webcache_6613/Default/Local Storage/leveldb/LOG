@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 2026/08/01-20:28:47.466 6d18 Reusing MANIFEST C:\Users\woozh\OneDrive\Desktop\GLDReadyOrNot\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
 2026/08/01-20:28:47.471 6d18 Recovering log #4
 2026/08/01-20:28:47.478 6d18 Reusing old log C:\Users\woozh\OneDrive\Desktop\GLDReadyOrNot\Saved\webcache_6613\Default\Local Storage\leveldb/000004.log 
+=======
+2026/07/31-18:47:51.626 f24 Reusing MANIFEST C:\Users\szeyee\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/07/31-18:47:51.632 f24 Recovering log #4
+2026/07/31-18:47:51.637 f24 Reusing old log C:\Users\szeyee\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613\Default\Local Storage\leveldb/000004.log 
+>>>>>>> origin/szeyee
