@@ -1,14 +1,6 @@
 <<<<<<< Updated upstream
-2026/08/01-22:13:18.220 38d8 Reusing MANIFEST C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\shared_proto_db\metadata/MANIFEST-000001
-2026/08/01-22:13:18.221 38d8 Recovering log #3
-2026/08/01-22:13:18.221 38d8 Reusing old log C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\shared_proto_db\metadata/000003.log 
+2026/08/01-22:15:39.077 6ed8 Reusing MANIFEST C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/08/01-22:15:39.078 6ed8 Recovering log #3
+2026/08/01-22:15:39.078 6ed8 Reusing old log C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\shared_proto_db\metadata/000003.log 
 =======
-<<<<<<< HEAD
-2026/08/01-11:30:09.669 4110 Creating DB C:\Users\szeyee\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\shared_proto_db\metadata since it was missing.
-2026/08/01-11:30:09.676 4110 Reusing MANIFEST C:\Users\szeyee\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\shared_proto_db\metadata/MANIFEST-000001
-=======
-2026/08/01-21:29:19.303 90f0 Reusing MANIFEST C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\shared_proto_db\metadata/MANIFEST-000001
-2026/08/01-21:29:19.304 90f0 Recovering log #3
-2026/08/01-21:29:19.304 90f0 Reusing old log C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\shared_proto_db\metadata/000003.log 
->>>>>>> Mavelle
 >>>>>>> Stashed changes
