@@ -3601,3 +3601,46 @@ FPackageName: Skipped package /Engine/EngineMeshes/Humanoid has a valid, mounted
 [2026.08.01-10.28.00:664][530]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
 [2026.08.01-10.28.00:664][530]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.08.01-10.28.00:664][530]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.08.01-10.28.37:365][970]Cmd: TRANSACTION UNDO
+[2026.08.01-10.28.37:365][970]LogEditorTransaction: Undo Replace component used material
+[2026.08.01-10.28.40:505][110]LogMaterial: Display: Material /Game/FPS_Game/Particles/Decal_Bullet_Impact_WithNormal.Decal_Bullet_Impact_WithNormal needed to set usage flag StaticLighting
+[2026.08.01-10.28.45:022][247]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.01-10.28.45:212][247]LogFileHelpers: Saving Map: /Game/FPS_Game/Maps/Level_3
+[2026.08.01-10.28.45:213][247]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FPS_Game/Maps/Level_3] ([1] browsable assets)...
+[2026.08.01-10.28.45:213][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS_Game/Maps/Level_3]
+[2026.08.01-10.28.45:295][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.08.01-10.28.45:395][247]LogSavePackage: Moving output files for package: /Game/FPS_Game/Maps/Level_3
+[2026.08.01-10.28.45:396][247]LogSavePackage: Moving '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Saved/Level_314C36CE94CEA11F8B2B888AC9AF034EF.tmp' to '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Maps/Level_3.umap'
+[2026.08.01-10.28.45:418][247]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.01-10.28.45:418][247]LogFileHelpers: Saving Package: /Game/FPS_Game/Maps/Level_3_BuiltData
+[2026.08.01-10.28.45:418][247]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FPS_Game/Maps/Level_3_BuiltData] ([1] browsable assets)...
+[2026.08.01-10.28.45:418][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS_Game/Maps/Level_3_BuiltData]
+[2026.08.01-10.28.45:418][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPS_Game/Maps/Level_3_BuiltData" FILE="../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Maps/Level_3_BuiltData.uasset" SILENT=true
+[2026.08.01-10.28.45:445][247]LogSavePackage: Moving output files for package: /Game/FPS_Game/Maps/Level_3_BuiltData
+[2026.08.01-10.28.45:445][247]LogSavePackage: Moving '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Saved/Level_3_BuiltData52AF874B47139FCEBFC53397BFEECFB7.tmp' to '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Maps/Level_3_BuiltData.uasset'
+[2026.08.01-10.28.45:448][247]LogFileHelpers: InternalPromptForCheckoutAndSave took 29.361 ms (total: 3.01 sec)
+[2026.08.01-10.28.45:466][247]LogFileHelpers: InternalPromptForCheckoutAndSave took 443.455 ms (total: 3.45 sec)
+[2026.08.01-10.28.45:673][247]LogContentValidation: Enabled validators:
+[2026.08.01-10.28.45:673][247]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.01-10.28.45:673][247]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.08.01-10.28.45:673][247]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.01-10.28.45:673][247]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.01-10.28.45:673][247]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.01-10.28.45:673][247]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.01-10.28.45:673][247]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.01-10.28.45:673][247]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.08.01-10.28.45:673][247]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.08.01-10.28.45:673][247]LogContentValidation: Display: Starting to validate 2 assets (0 associated objects such as actors)
+[2026.08.01-10.28.45:673][247]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.08.01-10.28.45:674][247]AssetCheck: /Game/FPS_Game/Maps/Level_3 Validating asset
+[2026.08.01-10.28.45:674][247]AssetCheck: /Game/FPS_Game/Maps/Level_3_BuiltData Validating asset
+[2026.08.01-10.28.45:674][247]LogContentValidation: Validated asset counts for 9 validators:
+[2026.08.01-10.28.45:674][247]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.08.01-10.28.45:674][247]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.08.01-10.28.45:674][247]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 2
+[2026.08.01-10.28.45:674][247]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.08.01-10.28.45:674][247]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.08.01-10.28.45:674][247]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.08.01-10.28.45:674][247]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.08.01-10.28.45:674][247]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.08.01-10.28.45:674][247]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
