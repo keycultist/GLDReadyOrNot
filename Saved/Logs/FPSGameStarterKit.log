@@ -3644,3 +3644,288 @@ FPackageName: Skipped package /Engine/EngineMeshes/Humanoid has a valid, mounted
 [2026.08.01-10.28.45:674][247]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
 [2026.08.01-10.28.45:674][247]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.08.01-10.28.45:674][247]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.08.01-10.29.11:793][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.08.01-10.29.13:169][461]LogSlate: Window 'Save Content' being destroyed
+[2026.08.01-10.29.13:201][461]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.01-10.29.13:393][461]LogFileHelpers: Saving Package: /Game/FPS_Game/Maps/_GENERATED/pleat/Box_34D34B42
+[2026.08.01-10.29.13:393][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FPS_Game/Maps/_GENERATED/pleat/Box_34D34B42] ([1] browsable assets)...
+[2026.08.01-10.29.13:414][461]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FPS_Game/Maps/_GENERATED/pleat/Box_34D34B42.Box_34D34B42]
+[2026.08.01-10.29.13:414][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS_Game/Maps/_GENERATED/pleat/Box_34D34B42]
+[2026.08.01-10.29.13:434][461]LogSavePackage: Moving output files for package: /Game/FPS_Game/Maps/_GENERATED/pleat/Box_34D34B42
+[2026.08.01-10.29.13:438][461]LogSavePackage: Moving '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Saved/Box_34D34B42DF2D2D3E4E97ABA7461B8DBC8D5AB7EE.tmp' to '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Maps/_GENERATED/pleat/Box_34D34B42.uasset'
+[2026.08.01-10.29.13:450][461]LogFileHelpers: Saving Package: /Game/FPS_Game/Maps/_GENERATED/pleat/Box_43724B55
+[2026.08.01-10.29.13:450][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FPS_Game/Maps/_GENERATED/pleat/Box_43724B55] ([1] browsable assets)...
+[2026.08.01-10.29.13:457][461]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FPS_Game/Maps/_GENERATED/pleat/Box_43724B55.Box_43724B55]
+[2026.08.01-10.29.13:457][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS_Game/Maps/_GENERATED/pleat/Box_43724B55]
+[2026.08.01-10.29.13:472][461]LogSavePackage: Moving output files for package: /Game/FPS_Game/Maps/_GENERATED/pleat/Box_43724B55
+[2026.08.01-10.29.13:472][461]LogSavePackage: Moving '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Saved/Box_43724B55674E5E834845CE595EB9CDA799A6BCC8.tmp' to '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Maps/_GENERATED/pleat/Box_43724B55.uasset'
+[2026.08.01-10.29.13:489][461]LogFileHelpers: Saving Package: /Game/FPS_Game/Maps/_GENERATED/pleat/Box_500F250F
+[2026.08.01-10.29.13:489][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FPS_Game/Maps/_GENERATED/pleat/Box_500F250F] ([1] browsable assets)...
+[2026.08.01-10.29.13:497][461]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FPS_Game/Maps/_GENERATED/pleat/Box_500F250F.Box_500F250F]
+[2026.08.01-10.29.13:497][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS_Game/Maps/_GENERATED/pleat/Box_500F250F]
+[2026.08.01-10.29.13:508][461]LogSavePackage: Moving output files for package: /Game/FPS_Game/Maps/_GENERATED/pleat/Box_500F250F
+[2026.08.01-10.29.13:508][461]LogSavePackage: Moving '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Saved/Box_500F250F2A4D3D8A42D4A68BE9005FA67C7E6DC7.tmp' to '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Maps/_GENERATED/pleat/Box_500F250F.uasset'
+[2026.08.01-10.29.13:519][461]LogFileHelpers: Saving Package: /Game/FPS_Game/Maps/_GENERATED/pleat/Box_74D925E2
+[2026.08.01-10.29.13:519][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FPS_Game/Maps/_GENERATED/pleat/Box_74D925E2] ([1] browsable assets)...
+[2026.08.01-10.29.13:527][461]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FPS_Game/Maps/_GENERATED/pleat/Box_74D925E2.Box_74D925E2]
+[2026.08.01-10.29.13:527][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS_Game/Maps/_GENERATED/pleat/Box_74D925E2]
+[2026.08.01-10.29.13:538][461]LogSavePackage: Moving output files for package: /Game/FPS_Game/Maps/_GENERATED/pleat/Box_74D925E2
+[2026.08.01-10.29.13:538][461]LogSavePackage: Moving '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Saved/Box_74D925E292C3FBB14A5DFDBFBE7C7B812CAF5217.tmp' to '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Maps/_GENERATED/pleat/Box_74D925E2.uasset'
+[2026.08.01-10.29.13:544][461]LogFileHelpers: Saving Package: /Game/FPS_Game/Maps/_GENERATED/pleat/Box_7B7FE50C
+[2026.08.01-10.29.13:544][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FPS_Game/Maps/_GENERATED/pleat/Box_7B7FE50C] ([1] browsable assets)...
+[2026.08.01-10.29.13:553][461]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FPS_Game/Maps/_GENERATED/pleat/Box_7B7FE50C.Box_7B7FE50C]
+[2026.08.01-10.29.13:553][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS_Game/Maps/_GENERATED/pleat/Box_7B7FE50C]
+[2026.08.01-10.29.13:566][461]LogSavePackage: Moving output files for package: /Game/FPS_Game/Maps/_GENERATED/pleat/Box_7B7FE50C
+[2026.08.01-10.29.13:566][461]LogSavePackage: Moving '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Saved/Box_7B7FE50CFF46132B4920C3801B7E288096353EF7.tmp' to '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Maps/_GENERATED/pleat/Box_7B7FE50C.uasset'
+[2026.08.01-10.29.13:568][461]LogFileHelpers: Saving Package: /Game/FPS_Game/Maps/_GENERATED/pleat/Box_932DDAC3
+[2026.08.01-10.29.13:569][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FPS_Game/Maps/_GENERATED/pleat/Box_932DDAC3] ([1] browsable assets)...
+[2026.08.01-10.29.13:576][461]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FPS_Game/Maps/_GENERATED/pleat/Box_932DDAC3.Box_932DDAC3]
+[2026.08.01-10.29.13:576][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS_Game/Maps/_GENERATED/pleat/Box_932DDAC3]
+[2026.08.01-10.29.13:588][461]LogSavePackage: Moving output files for package: /Game/FPS_Game/Maps/_GENERATED/pleat/Box_932DDAC3
+[2026.08.01-10.29.13:588][461]LogSavePackage: Moving '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Saved/Box_932DDAC302E8EF784D61DB0F9C56D78A47A246A6.tmp' to '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Maps/_GENERATED/pleat/Box_932DDAC3.uasset'
+[2026.08.01-10.29.13:590][461]LogFileHelpers: Saving Package: /Game/FPS_Game/Maps/_GENERATED/pleat/Box_CA7D7BFA
+[2026.08.01-10.29.13:590][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FPS_Game/Maps/_GENERATED/pleat/Box_CA7D7BFA] ([1] browsable assets)...
+[2026.08.01-10.29.13:597][461]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FPS_Game/Maps/_GENERATED/pleat/Box_CA7D7BFA.Box_CA7D7BFA]
+[2026.08.01-10.29.13:597][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS_Game/Maps/_GENERATED/pleat/Box_CA7D7BFA]
+[2026.08.01-10.29.13:608][461]LogSavePackage: Moving output files for package: /Game/FPS_Game/Maps/_GENERATED/pleat/Box_CA7D7BFA
+[2026.08.01-10.29.13:608][461]LogSavePackage: Moving '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Saved/Box_CA7D7BFAF4D0CA724D001904474DD19CE3BC2FF7.tmp' to '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Maps/_GENERATED/pleat/Box_CA7D7BFA.uasset'
+[2026.08.01-10.29.13:610][461]LogFileHelpers: Saving Package: /Game/FPS_Game/Maps/_GENERATED/pleat/Box_F8762D7E
+[2026.08.01-10.29.13:610][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FPS_Game/Maps/_GENERATED/pleat/Box_F8762D7E] ([1] browsable assets)...
+[2026.08.01-10.29.13:617][461]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FPS_Game/Maps/_GENERATED/pleat/Box_F8762D7E.Box_F8762D7E]
+[2026.08.01-10.29.13:617][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS_Game/Maps/_GENERATED/pleat/Box_F8762D7E]
+[2026.08.01-10.29.13:629][461]LogSavePackage: Moving output files for package: /Game/FPS_Game/Maps/_GENERATED/pleat/Box_F8762D7E
+[2026.08.01-10.29.13:629][461]LogSavePackage: Moving '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Saved/Box_F8762D7EA5F099A043CBC5BD5194E4BBD8F33F2E.tmp' to '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Maps/_GENERATED/pleat/Box_F8762D7E.uasset'
+[2026.08.01-10.29.13:631][461]LogFileHelpers: Saving Package: /Game/FPS_Game/Particles/Decal_Bullet_Impact_WithNormal
+[2026.08.01-10.29.13:631][461]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FPS_Game/Particles/Decal_Bullet_Impact_WithNormal] ([1] browsable assets)...
+[2026.08.01-10.29.13:631][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS_Game/Particles/Decal_Bullet_Impact_WithNormal]
+[2026.08.01-10.29.13:651][461]LogSavePackage: Moving output files for package: /Game/FPS_Game/Particles/Decal_Bullet_Impact_WithNormal
+[2026.08.01-10.29.13:652][461]LogSavePackage: Moving '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Saved/Decal_Bullet_Impact_WithNormalEC9928614D832858BF17B389DA78EF8B.tmp' to '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Particles/Decal_Bullet_Impact_WithNormal.uasset'
+[2026.08.01-10.29.13:654][461]LogFileHelpers: Saving Package: /Game/Carmen_Import/Mat_maverick_008_ec135_bmp
+[2026.08.01-10.29.13:654][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Carmen_Import/Mat_maverick_008_ec135_bmp] ([1] browsable assets)...
+[2026.08.01-10.29.13:664][461]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Carmen_Import/Mat_maverick_008_ec135_bmp.Mat_maverick_008_ec135_bmp]
+[2026.08.01-10.29.13:664][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/Carmen_Import/Mat_maverick_008_ec135_bmp]
+[2026.08.01-10.29.13:682][461]LogSavePackage: Moving output files for package: /Game/Carmen_Import/Mat_maverick_008_ec135_bmp
+[2026.08.01-10.29.13:682][461]LogSavePackage: Moving '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Saved/Mat_maverick_008_ec135_bmpC1D9F6DE4321D35963CB33ADD006EEA7.tmp' to '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/Carmen_Import/Mat_maverick_008_ec135_bmp.uasset'
+[2026.08.01-10.29.13:685][461]LogFileHelpers: Saving Package: /Game/Carmen_Import/Mat_maverick_009_ec1351_bmp
+[2026.08.01-10.29.13:685][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Carmen_Import/Mat_maverick_009_ec1351_bmp] ([1] browsable assets)...
+[2026.08.01-10.29.13:695][461]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Carmen_Import/Mat_maverick_009_ec1351_bmp.Mat_maverick_009_ec1351_bmp]
+[2026.08.01-10.29.13:695][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/Carmen_Import/Mat_maverick_009_ec1351_bmp]
+[2026.08.01-10.29.13:706][461]LogSavePackage: Moving output files for package: /Game/Carmen_Import/Mat_maverick_009_ec1351_bmp
+[2026.08.01-10.29.13:706][461]LogSavePackage: Moving '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Saved/Mat_maverick_009_ec1351_bmp2C2479864D15FDA3262C8790478E5E13.tmp' to '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/Carmen_Import/Mat_maverick_009_ec1351_bmp.uasset'
+[2026.08.01-10.29.13:708][461]LogFileHelpers: Saving Package: /Game/Carmen_Import/Mat_maverick_010
+[2026.08.01-10.29.13:708][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Carmen_Import/Mat_maverick_010] ([1] browsable assets)...
+[2026.08.01-10.29.13:715][461]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Carmen_Import/Mat_maverick_010.Mat_maverick_010]
+[2026.08.01-10.29.13:715][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/Carmen_Import/Mat_maverick_010]
+[2026.08.01-10.29.13:715][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Carmen_Import/Mat_maverick_010" FILE="../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/Carmen_Import/Mat_maverick_010.uasset" SILENT=true
+[2026.08.01-10.29.13:727][461]LogSavePackage: Moving output files for package: /Game/Carmen_Import/Mat_maverick_010
+[2026.08.01-10.29.13:727][461]LogSavePackage: Moving '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Saved/Mat_maverick_0108C53B0E44F895B99F5ACBAA8A3F924FD.tmp' to '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/Carmen_Import/Mat_maverick_010.uasset'
+[2026.08.01-10.29.13:729][461]LogFileHelpers: Saving Package: /Game/Carmen_Import/Mat_maverick_011_ec1351_bmp
+[2026.08.01-10.29.13:729][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Carmen_Import/Mat_maverick_011_ec1351_bmp] ([1] browsable assets)...
+[2026.08.01-10.29.13:738][461]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Carmen_Import/Mat_maverick_011_ec1351_bmp.Mat_maverick_011_ec1351_bmp]
+[2026.08.01-10.29.13:738][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/Carmen_Import/Mat_maverick_011_ec1351_bmp]
+[2026.08.01-10.29.13:749][461]LogSavePackage: Moving output files for package: /Game/Carmen_Import/Mat_maverick_011_ec1351_bmp
+[2026.08.01-10.29.13:750][461]LogSavePackage: Moving '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Saved/Mat_maverick_011_ec1351_bmp6BB158144634E492645C1BAAA5D09E83.tmp' to '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/Carmen_Import/Mat_maverick_011_ec1351_bmp.uasset'
+[2026.08.01-10.29.13:751][461]LogFileHelpers: Saving Package: /Game/Carmen_Import/Mat_maverick_012_ec135_bmp
+[2026.08.01-10.29.13:751][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Carmen_Import/Mat_maverick_012_ec135_bmp] ([1] browsable assets)...
+[2026.08.01-10.29.13:762][461]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Carmen_Import/Mat_maverick_012_ec135_bmp.Mat_maverick_012_ec135_bmp]
+[2026.08.01-10.29.13:762][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/Carmen_Import/Mat_maverick_012_ec135_bmp]
+[2026.08.01-10.29.13:776][461]LogSavePackage: Moving output files for package: /Game/Carmen_Import/Mat_maverick_012_ec135_bmp
+[2026.08.01-10.29.13:776][461]LogSavePackage: Moving '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Saved/Mat_maverick_012_ec135_bmpD21D11DF435ED8669078C3AA23331AEC.tmp' to '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/Carmen_Import/Mat_maverick_012_ec135_bmp.uasset'
+[2026.08.01-10.29.13:778][461]LogFileHelpers: Saving Package: /Game/SM_MERGED_StaticMeshActor_58
+[2026.08.01-10.29.13:778][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SM_MERGED_StaticMeshActor_58] ([1] browsable assets)...
+[2026.08.01-10.29.13:791][461]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/SM_MERGED_StaticMeshActor_58.SM_MERGED_StaticMeshActor_58]
+[2026.08.01-10.29.13:791][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/SM_MERGED_StaticMeshActor_58]
+[2026.08.01-10.29.13:791][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_MERGED_StaticMeshActor_58" FILE="../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/SM_MERGED_StaticMeshActor_58.uasset" SILENT=true
+[2026.08.01-10.29.13:803][461]LogSavePackage: Moving output files for package: /Game/SM_MERGED_StaticMeshActor_58
+[2026.08.01-10.29.13:803][461]LogSavePackage: Moving '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Saved/SM_MERGED_StaticMeshActor_58F921A5644A0BA963B69380B482741D58.tmp' to '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/SM_MERGED_StaticMeshActor_58.uasset'
+[2026.08.01-10.29.13:805][461]LogFileHelpers: Saving Package: /Game/SM_MERGED_StaticMeshActor_86
+[2026.08.01-10.29.13:806][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SM_MERGED_StaticMeshActor_86] ([1] browsable assets)...
+[2026.08.01-10.29.13:817][461]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/SM_MERGED_StaticMeshActor_86.SM_MERGED_StaticMeshActor_86]
+[2026.08.01-10.29.13:817][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/SM_MERGED_StaticMeshActor_86]
+[2026.08.01-10.29.13:818][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_MERGED_StaticMeshActor_86" FILE="../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/SM_MERGED_StaticMeshActor_86.uasset" SILENT=true
+[2026.08.01-10.29.13:830][461]LogSavePackage: Moving output files for package: /Game/SM_MERGED_StaticMeshActor_86
+[2026.08.01-10.29.13:830][461]LogSavePackage: Moving '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Saved/SM_MERGED_StaticMeshActor_86287E474A4C853FA76EF825AD76A6D0C6.tmp' to '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/SM_MERGED_StaticMeshActor_86.uasset'
+[2026.08.01-10.29.13:832][461]LogFileHelpers: Saving Package: /Game/SM_SM_adasdaadas
+[2026.08.01-10.29.13:832][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SM_SM_adasdaadas] ([1] browsable assets)...
+[2026.08.01-10.29.13:846][461]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/SM_SM_adasdaadas.SM_SM_adasdaadas]
+[2026.08.01-10.29.13:846][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/SM_SM_adasdaadas]
+[2026.08.01-10.29.13:846][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_SM_adasdaadas" FILE="../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/SM_SM_adasdaadas.uasset" SILENT=true
+[2026.08.01-10.29.13:863][461]LogSavePackage: Moving output files for package: /Game/SM_SM_adasdaadas
+[2026.08.01-10.29.13:863][461]LogSavePackage: Moving '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Saved/SM_SM_adasdaadasE35778A445333B279C5805A526EA59C3.tmp' to '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/SM_SM_adasdaadas.uasset'
+[2026.08.01-10.29.13:864][461]LogFileHelpers: Saving Package: /Game/SM_WALLSDMASdm
+[2026.08.01-10.29.13:864][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SM_WALLSDMASdm] ([1] browsable assets)...
+[2026.08.01-10.29.13:875][461]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/SM_WALLSDMASdm.SM_WALLSDMASdm]
+[2026.08.01-10.29.13:875][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/SM_WALLSDMASdm]
+[2026.08.01-10.29.13:875][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_WALLSDMASdm" FILE="../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/SM_WALLSDMASdm.uasset" SILENT=true
+[2026.08.01-10.29.13:888][461]LogSavePackage: Moving output files for package: /Game/SM_WALLSDMASdm
+[2026.08.01-10.29.13:888][461]LogSavePackage: Moving '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Saved/SM_WALLSDMASdm679C45FF411046CC3777338EADF4B107.tmp' to '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/SM_WALLSDMASdm.uasset'
+[2026.08.01-10.29.13:891][461]LogFileHelpers: Saving Package: /Game/SM_adasdaadas
+[2026.08.01-10.29.13:892][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SM_adasdaadas] ([1] browsable assets)...
+[2026.08.01-10.29.13:903][461]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/SM_adasdaadas.SM_adasdaadas]
+[2026.08.01-10.29.13:903][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/SM_adasdaadas]
+[2026.08.01-10.29.13:903][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_adasdaadas" FILE="../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/SM_adasdaadas.uasset" SILENT=true
+[2026.08.01-10.29.13:919][461]LogSavePackage: Moving output files for package: /Game/SM_adasdaadas
+[2026.08.01-10.29.13:919][461]LogSavePackage: Moving '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Saved/SM_adasdaadasA27DDDA045A44610F8CAF5941D734D9B.tmp' to '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/SM_adasdaadas.uasset'
+[2026.08.01-10.29.13:921][461]LogFileHelpers: Saving Package: /Game/FPS_Game/Maps/_GENERATED/pleat/Stairs_67A620F0
+[2026.08.01-10.29.13:921][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FPS_Game/Maps/_GENERATED/pleat/Stairs_67A620F0] ([1] browsable assets)...
+[2026.08.01-10.29.13:932][461]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FPS_Game/Maps/_GENERATED/pleat/Stairs_67A620F0.Stairs_67A620F0]
+[2026.08.01-10.29.13:932][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS_Game/Maps/_GENERATED/pleat/Stairs_67A620F0]
+[2026.08.01-10.29.13:944][461]LogSavePackage: Moving output files for package: /Game/FPS_Game/Maps/_GENERATED/pleat/Stairs_67A620F0
+[2026.08.01-10.29.13:944][461]LogSavePackage: Moving '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Saved/Stairs_67A620F0271FCE5B4009FA889C0D7F9FAFF92D02.tmp' to '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Maps/_GENERATED/pleat/Stairs_67A620F0.uasset'
+[2026.08.01-10.29.13:946][461]LogFileHelpers: Saving Package: /Game/FPS_Game/Maps/_GENERATED/pleat/Stairs_A0B372BC
+[2026.08.01-10.29.13:946][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FPS_Game/Maps/_GENERATED/pleat/Stairs_A0B372BC] ([1] browsable assets)...
+[2026.08.01-10.29.13:956][461]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FPS_Game/Maps/_GENERATED/pleat/Stairs_A0B372BC.Stairs_A0B372BC]
+[2026.08.01-10.29.13:956][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS_Game/Maps/_GENERATED/pleat/Stairs_A0B372BC]
+[2026.08.01-10.29.13:970][461]LogSavePackage: Moving output files for package: /Game/FPS_Game/Maps/_GENERATED/pleat/Stairs_A0B372BC
+[2026.08.01-10.29.13:970][461]LogSavePackage: Moving '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Saved/Stairs_A0B372BC0FF6CDAF487E22D1604B559C4EBD70D1.tmp' to '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Maps/_GENERATED/pleat/Stairs_A0B372BC.uasset'
+[2026.08.01-10.29.13:972][461]LogFileHelpers: Saving Package: /Game/Carmen_Import/chassis
+[2026.08.01-10.29.13:972][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Carmen_Import/chassis] ([1] browsable assets)...
+[2026.08.01-10.29.13:985][461]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Carmen_Import/chassis.chassis]
+[2026.08.01-10.29.13:985][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/Carmen_Import/chassis]
+[2026.08.01-10.29.13:985][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Carmen_Import/chassis" FILE="../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/Carmen_Import/chassis.uasset" SILENT=true
+[2026.08.01-10.29.14:011][461]LogSavePackage: Moving output files for package: /Game/Carmen_Import/chassis
+[2026.08.01-10.29.14:011][461]LogSavePackage: Moving '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Saved/chassisF37AC95D4D1988384A85909DDFDF578D.tmp' to '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/Carmen_Import/chassis.uasset'
+[2026.08.01-10.29.14:012][461]LogFileHelpers: Saving Package: /Game/Carmen_Import/ec135
+[2026.08.01-10.29.14:013][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Carmen_Import/ec135] ([1] browsable assets)...
+[2026.08.01-10.29.14:019][461]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Carmen_Import/ec135.ec135]
+[2026.08.01-10.29.14:019][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/Carmen_Import/ec135]
+[2026.08.01-10.29.14:019][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Carmen_Import/ec135" FILE="../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/Carmen_Import/ec135.uasset" SILENT=true
+[2026.08.01-10.29.14:039][461]LogSavePackage: Moving output files for package: /Game/Carmen_Import/ec135
+[2026.08.01-10.29.14:039][461]LogSavePackage: Moving '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Saved/ec1358C1D3BF34D96FEB1CF99CCB42ED51324.tmp' to '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/Carmen_Import/ec135.uasset'
+[2026.08.01-10.29.14:044][461]LogFileHelpers: Saving Package: /Game/Carmen_Import/ec1351
+[2026.08.01-10.29.14:045][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Carmen_Import/ec1351] ([1] browsable assets)...
+[2026.08.01-10.29.14:047][461]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Carmen_Import/ec1351.ec1351]
+[2026.08.01-10.29.14:047][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/Carmen_Import/ec1351]
+[2026.08.01-10.29.14:047][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Carmen_Import/ec1351" FILE="../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/Carmen_Import/ec1351.uasset" SILENT=true
+[2026.08.01-10.29.14:061][461]LogSavePackage: Moving output files for package: /Game/Carmen_Import/ec1351
+[2026.08.01-10.29.14:061][461]LogSavePackage: Moving '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Saved/ec13511A5621214A7B3C51C793AB97E2192EDD.tmp' to '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/Carmen_Import/ec1351.uasset'
+[2026.08.01-10.29.14:063][461]LogFileHelpers: Saving Package: /Game/Carmen_Import/ec1351_Mat
+[2026.08.01-10.29.14:063][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Carmen_Import/ec1351_Mat] ([1] browsable assets)...
+[2026.08.01-10.29.14:075][461]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Carmen_Import/ec1351_Mat.ec1351_Mat]
+[2026.08.01-10.29.14:075][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/Carmen_Import/ec1351_Mat]
+[2026.08.01-10.29.14:075][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Carmen_Import/ec1351_Mat" FILE="../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/Carmen_Import/ec1351_Mat.uasset" SILENT=true
+[2026.08.01-10.29.14:084][461]LogSavePackage: Moving output files for package: /Game/Carmen_Import/ec1351_Mat
+[2026.08.01-10.29.14:085][461]LogSavePackage: Moving '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Saved/ec1351_Mat133267AA46F865965643249A8557E55C.tmp' to '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/Carmen_Import/ec1351_Mat.uasset'
+[2026.08.01-10.29.14:088][461]LogFileHelpers: Saving Package: /Game/Carmen_Import/ec135_Mat
+[2026.08.01-10.29.14:088][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Carmen_Import/ec135_Mat] ([1] browsable assets)...
+[2026.08.01-10.29.14:097][461]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Carmen_Import/ec135_Mat.ec135_Mat]
+[2026.08.01-10.29.14:098][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/Carmen_Import/ec135_Mat]
+[2026.08.01-10.29.14:098][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Carmen_Import/ec135_Mat" FILE="../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/Carmen_Import/ec135_Mat.uasset" SILENT=true
+[2026.08.01-10.29.14:108][461]LogSavePackage: Moving output files for package: /Game/Carmen_Import/ec135_Mat
+[2026.08.01-10.29.14:108][461]LogSavePackage: Moving '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Saved/ec135_MatD5773CE043381A03DEC4E497BB101218.tmp' to '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/Carmen_Import/ec135_Mat.uasset'
+[2026.08.01-10.29.14:109][461]LogFileHelpers: Saving Package: /Game/Carmen_Import/static_rotor
+[2026.08.01-10.29.14:109][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Carmen_Import/static_rotor] ([1] browsable assets)...
+[2026.08.01-10.29.14:119][461]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Carmen_Import/static_rotor.static_rotor]
+[2026.08.01-10.29.14:119][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/Carmen_Import/static_rotor]
+[2026.08.01-10.29.14:119][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Carmen_Import/static_rotor" FILE="../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/Carmen_Import/static_rotor.uasset" SILENT=true
+[2026.08.01-10.29.14:131][461]LogSavePackage: Moving output files for package: /Game/Carmen_Import/static_rotor
+[2026.08.01-10.29.14:131][461]LogSavePackage: Moving '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Saved/static_rotor8ACB0082448DA131614C63B1DADE45B7.tmp' to '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/Carmen_Import/static_rotor.uasset'
+[2026.08.01-10.29.14:133][461]LogFileHelpers: Saving Package: /Game/Carmen_Import/static_rotor2
+[2026.08.01-10.29.14:133][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Carmen_Import/static_rotor2] ([1] browsable assets)...
+[2026.08.01-10.29.14:143][461]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Carmen_Import/static_rotor2.static_rotor2]
+[2026.08.01-10.29.14:143][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/Carmen_Import/static_rotor2]
+[2026.08.01-10.29.14:143][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Carmen_Import/static_rotor2" FILE="../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/Carmen_Import/static_rotor2.uasset" SILENT=true
+[2026.08.01-10.29.14:154][461]LogSavePackage: Moving output files for package: /Game/Carmen_Import/static_rotor2
+[2026.08.01-10.29.14:154][461]LogSavePackage: Moving '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Saved/static_rotor206394041478582F5B177B1BF4CCC7759.tmp' to '../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/Carmen_Import/static_rotor2.uasset'
+[2026.08.01-10.29.14:172][461]LogFileHelpers: InternalPromptForCheckoutAndSave took 969.976 ms (total: 4.42 sec)
+[2026.08.01-10.29.14:241][461]LogStall: Shutdown...
+[2026.08.01-10.29.14:256][461]LogStall: Shutdown complete.
+[2026.08.01-10.29.14:273][461]LogSlate: Window 'FPSGameStarterKit - Unreal Editor' being destroyed
+[2026.08.01-10.29.15:559][461]LogContentValidation: Enabled validators:
+[2026.08.01-10.29.15:560][461]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.01-10.29.15:560][461]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.08.01-10.29.15:560][461]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.01-10.29.15:560][461]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.01-10.29.15:560][461]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.01-10.29.15:560][461]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.01-10.29.15:560][461]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.01-10.29.15:560][461]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.08.01-10.29.15:561][461]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.08.01-10.29.15:561][461]LogContentValidation: Display: Starting to validate 28 assets (0 associated objects such as actors)
+[2026.08.01-10.29.15:561][461]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.08.01-10.29.15:562][461]AssetCheck: /Game/FPS_Game/Maps/_GENERATED/pleat/Box_34D34B42 Validating asset
+[2026.08.01-10.29.15:562][461]AssetCheck: /Game/FPS_Game/Maps/_GENERATED/pleat/Box_43724B55 Validating asset
+[2026.08.01-10.29.15:562][461]AssetCheck: /Game/FPS_Game/Maps/_GENERATED/pleat/Box_500F250F Validating asset
+[2026.08.01-10.29.15:562][461]AssetCheck: /Game/FPS_Game/Maps/_GENERATED/pleat/Box_74D925E2 Validating asset
+[2026.08.01-10.29.15:562][461]AssetCheck: /Game/FPS_Game/Maps/_GENERATED/pleat/Box_7B7FE50C Validating asset
+[2026.08.01-10.29.15:562][461]AssetCheck: /Game/FPS_Game/Maps/_GENERATED/pleat/Box_932DDAC3 Validating asset
+[2026.08.01-10.29.15:562][461]AssetCheck: /Game/FPS_Game/Maps/_GENERATED/pleat/Box_CA7D7BFA Validating asset
+[2026.08.01-10.29.15:562][461]AssetCheck: /Game/FPS_Game/Maps/_GENERATED/pleat/Box_F8762D7E Validating asset
+[2026.08.01-10.29.15:563][461]AssetCheck: /Game/FPS_Game/Particles/Decal_Bullet_Impact_WithNormal Validating asset
+[2026.08.01-10.29.15:563][461]AssetCheck: /Game/Carmen_Import/Mat_maverick_008_ec135_bmp Validating asset
+[2026.08.01-10.29.15:563][461]AssetCheck: /Game/Carmen_Import/Mat_maverick_009_ec1351_bmp Validating asset
+[2026.08.01-10.29.15:563][461]AssetCheck: /Game/Carmen_Import/Mat_maverick_010 Validating asset
+[2026.08.01-10.29.15:563][461]AssetCheck: /Game/Carmen_Import/Mat_maverick_011_ec1351_bmp Validating asset
+[2026.08.01-10.29.15:563][461]AssetCheck: /Game/Carmen_Import/Mat_maverick_012_ec135_bmp Validating asset
+[2026.08.01-10.29.15:564][461]AssetCheck: /Game/SM_MERGED_StaticMeshActor_58 Validating asset
+[2026.08.01-10.29.15:564][461]AssetCheck: /Game/SM_MERGED_StaticMeshActor_86 Validating asset
+[2026.08.01-10.29.15:564][461]AssetCheck: /Game/SM_SM_adasdaadas Validating asset
+[2026.08.01-10.29.15:566][461]AssetCheck: /Game/SM_WALLSDMASdm Validating asset
+[2026.08.01-10.29.15:566][461]AssetCheck: /Game/SM_adasdaadas Validating asset
+[2026.08.01-10.29.15:566][461]AssetCheck: /Game/FPS_Game/Maps/_GENERATED/pleat/Stairs_67A620F0 Validating asset
+[2026.08.01-10.29.15:566][461]AssetCheck: /Game/FPS_Game/Maps/_GENERATED/pleat/Stairs_A0B372BC Validating asset
+[2026.08.01-10.29.15:566][461]AssetCheck: /Game/Carmen_Import/chassis Validating asset
+[2026.08.01-10.29.15:567][461]AssetCheck: /Game/Carmen_Import/ec135 Validating asset
+[2026.08.01-10.29.15:567][461]AssetCheck: /Game/Carmen_Import/ec1351 Validating asset
+[2026.08.01-10.29.15:567][461]AssetCheck: /Game/Carmen_Import/ec1351_Mat Validating asset
+[2026.08.01-10.29.15:567][461]AssetCheck: /Game/Carmen_Import/ec135_Mat Validating asset
+[2026.08.01-10.29.15:567][461]AssetCheck: /Game/Carmen_Import/static_rotor Validating asset
+[2026.08.01-10.29.15:567][461]AssetCheck: /Game/Carmen_Import/static_rotor2 Validating asset
+[2026.08.01-10.29.15:567][461]LogContentValidation: Validated asset counts for 9 validators:
+[2026.08.01-10.29.15:568][461]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.08.01-10.29.15:568][461]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.08.01-10.29.15:568][461]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 28
+[2026.08.01-10.29.15:568][461]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.08.01-10.29.15:568][461]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.08.01-10.29.15:568][461]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.08.01-10.29.15:568][461]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.08.01-10.29.15:568][461]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.08.01-10.29.15:568][461]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.08.01-10.29.15:591][461]Cmd: QUIT_EDITOR
+[2026.08.01-10.29.15:592][461]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.08.01-10.29.15:594][461]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/pleat/Documents/GitHub/GLDReadyOrNot/Saved/SourceControl/UncontrolledChangelists.json
+[2026.08.01-10.29.15:618][462]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.08.01-10.29.15:636][462]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.08.01-10.29.15:636][462]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.08.01-10.29.15:761][462]LogWorld: UWorld::CleanupWorld for Level_3, bSessionEnded=true, bCleanupResources=true
+[2026.08.01-10.29.15:816][462]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.08.01-10.29.15:819][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.01-10.29.15:867][462]LogMovieScene: USequencerBakeSubsystem subsystem deinitialized.
+[2026.08.01-10.29.15:954][462]LogToolsetRegistry: Display: Unregistering Toolset ToolsetRegistry.AgentSkillToolset
+[2026.08.01-10.29.15:963][462]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.08.01-10.29.16:125][462]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.08.01-10.29.16:206][462]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.08.01-10.29.16:206][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.01-10.29.16:209][462]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.08.01-10.29.16:209][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.01-10.29.16:227][462]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.08.01-10.29.16:227][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.01-10.29.16:227][462]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.08.01-10.29.16:227][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.01-10.29.16:227][462]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.08.01-10.29.16:227][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.01-10.29.16:252][462]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.08.01-10.29.16:261][462]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.08.01-10.29.16:279][462]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerWasapi)...
+[2026.08.01-10.29.16:279][462]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.08.01-10.29.16:281][462]LogAudio: Display: Audio Device unregistered from world 'Level_3'.
+[2026.08.01-10.29.16:282][462]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.08.01-10.29.16:290][462]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=1, StreamState=4
+[2026.08.01-10.29.16:334][462]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.08.01-10.29.16:406][462]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.08.01-10.29.16:406][462]LogAudio: Display: Audio Device Manager Shutdown
+[2026.08.01-10.29.16:602][462]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.08.01-10.29.16:606][462]LogExit: Preparing to exit.
+[2026.08.01-10.29.18:110][462]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2026.08.01-10.29.18:805][462]LogAssetRegistry: Display: CleanupOrphanedCacheFiles (PostWrite): 1 .ref files found, 1 referenced binaries
+[2026.08.01-10.29.18:805][462]LogAssetRegistry: Display: CleanupOrphanedCacheFiles: 1 total binaries, 1 referenced (kept), 0 old-style pre-migration (kept), 0 orphans deleted, 0 orphans locked (kept)
+[2026.08.01-10.29.18:828][462]LogEditorDataStorage: Deinitializing
+[2026.08.01-10.29.18:848][462]LogEditorDataStorage: De-initializing TEDS Compatibility.
+[2026.08.01-10.29.18:848][462]LogEditorDataStorage: De-initialized TEDS Compatibility.
+[2026.08.01-10.29.18:848][462]LogEditorDataStorage: De-initializing TEDS Core.
+[2026.08.01-10.29.18:848][462]LogEditorDataStorage: Resetting TEDS Core.
+[2026.08.01-10.29.18:879][462]LogEditorDataStorage: Reset TEDS Core.
+[2026.08.01-10.29.18:879][462]LogEditorDataStorage: De-initialized TEDS Core.
+[2026.08.01-10.29.19:900][462]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.08.01-10.29.20:455][462]LogExit: Editor shut down
+[2026.08.01-10.29.20:573][462]LogExit: Transaction tracking system shut down
