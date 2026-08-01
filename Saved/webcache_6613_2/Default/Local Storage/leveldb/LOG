@@ -1,3 +1,13 @@
-2026/08/01-21:48:48.064 934c Reusing MANIFEST C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\Local Storage\leveldb/MANIFEST-000001
-2026/08/01-21:48:48.070 934c Recovering log #10
-2026/08/01-21:48:48.072 934c Reusing old log C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\Local Storage\leveldb/000010.log 
+2026/08/01-21:51:45.283 2388 Reusing MANIFEST C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\Local Storage\leveldb/MANIFEST-000001
+2026/08/01-21:51:45.290 2388 Recovering log #10
+2026/08/01-21:51:45.291 2388 Level-0 table #12: started
+2026/08/01-21:51:45.298 2388 Level-0 table #12: 66601 bytes OK
+2026/08/01-21:51:45.307 2388 Delete type=0 #10
+2026/08/01-21:51:45.308 6848 Compacting 4@0 + 0@1 files
+2026/08/01-21:51:45.313 6848 Generated table #14@0: 7 keys, 9392 bytes
+2026/08/01-21:51:45.313 6848 Compacted 4@0 + 0@1 files => 9392 bytes
+2026/08/01-21:51:45.315 6848 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/08/01-21:51:45.316 6848 Delete type=2 #3
+2026/08/01-21:51:45.317 6848 Delete type=2 #6
+2026/08/01-21:51:45.317 6848 Delete type=2 #9
+2026/08/01-21:51:45.317 6848 Delete type=2 #12
