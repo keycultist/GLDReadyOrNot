@@ -5,6 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Maps/Level_4.umap",
+				"C:/Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Maps/Level_44.umap",
+				"C:/Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Maps/Level_2_BuiltData.uasset",
+				"C:/Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Maps/Level_2.umap",
+				"C:/Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Blueprints/Bonus/VendingMachines/BP_VendingMachine_NextLevel1.uasset",
+				"C:/Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Maps/Level_3_BuiltData.uasset",
+				"C:/Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Maps/Level_3.umap",
+				"C:/Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Blueprints/Bonus/VendingMachines/BP_VendingMachine_NextLevel2.uasset",
+				"C:/Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Blueprints/Bonus/VendingMachines/BP_VendingMachine_NextLevel3.uasset",
 				"C:/Users/Admin/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Maps/Level_1_BuiltData.uasset",
 				"C:/Users/Admin/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Maps/Level_1.umap",
 				"C:/Users/szeyee/Documents/GitHub/GLDReadyOrNot/Content/Mavelle_Import/Gothic_Wood_Picket_Fence_Panel_1.uasset",
@@ -16,9 +25,7 @@
 				"C:/Users/szeyee/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Maps/Level_2.umap",
 				"C:/Users/szeyee/Documents/GitHub/GLDReadyOrNot/Content/SzeYee_Import/WhiteSign.uasset",
 				"C:/Users/szeyee/Documents/GitHub/GLDReadyOrNot/Content/SzeYee_Import/Black.uasset",
-				"C:/Users/szeyee/Documents/GitHub/GLDReadyOrNot/Content/Mavelle_Import/wood_texture_Mat.uasset",
-				"C:/Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Maps/Level_4.umap",
-				"C:/Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Maps/Level_44.umap"
+				"C:/Users/szeyee/Documents/GitHub/GLDReadyOrNot/Content/Mavelle_Import/wood_texture_Mat.uasset"
 			]
 		}
 	]
