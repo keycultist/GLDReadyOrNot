@@ -1,3 +1,5 @@
-2026/08/01-21:27:08.277 9594 Reusing MANIFEST C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\Site Characteristics Database/MANIFEST-000001
-2026/08/01-21:27:08.278 9594 Recovering log #3
-2026/08/01-21:27:08.278 9594 Reusing old log C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\Site Characteristics Database/000003.log 
+2026/08/02-20:44:39.985 8ef4 Log #3: 2 ops saved to Table #4 OK
+2026/08/02-20:44:39.988 8ef4 Archiving C:\Users\pleat\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\Site Characteristics Database/000003.log: OK
+2026/08/02-20:44:39.989 8ef4 Table #4: 2 entries OK
+2026/08/02-20:44:39.991 8ef4 Archiving C:\Users\pleat\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/08/02-20:44:40.001 8ef4 **** Repaired leveldb C:\Users\pleat\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\Site Characteristics Database; recovered 1 files; 179 bytes. Some data may have been lost. ****

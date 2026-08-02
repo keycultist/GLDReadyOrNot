@@ -6,7 +6,15 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Maps/Level_4.umap",
-				"C:/Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Maps/Level_44.umap"
+				"C:/Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Maps/Level_44.umap",
+				"C:/Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Maps/Level_2_BuiltData.uasset",
+				"C:/Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Maps/Level_2.umap",
+				"C:/Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Maps/Level_5_BuiltData.uasset",
+				"C:/Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Maps/Level_5.umap",
+				"C:/Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Blueprints/Bonus/VendingMachines/BP_VendingMachine_NextLevel.uasset",
+				"C:/Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Blueprints/Bonus/VendingMachines/BP_VendingMachine_NextLevel1.uasset",
+				"C:/Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Blueprints/Bonus/VendingMachines/BP_VendingMachine_NextLevel2.uasset",
+				"C:/Users/pleat/Documents/GitHub/GLDReadyOrNot/Content/FPS_Game/Blueprints/Bonus/VendingMachines/BP_VendingMachine_NextLevel3.uasset"
 			]
 		}
 	]

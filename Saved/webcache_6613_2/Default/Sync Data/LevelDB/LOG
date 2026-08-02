@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-2026/08/01-11:30:05.531 3990 Creating DB C:\Users\szeyee\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\Sync Data\LevelDB since it was missing.
-2026/08/01-11:30:05.555 3990 Reusing MANIFEST C:\Users\szeyee\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\Sync Data\LevelDB/MANIFEST-000001
-=======
-2026/08/01-21:29:17.070 4e68 Reusing MANIFEST C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\Sync Data\LevelDB/MANIFEST-000001
-2026/08/01-21:29:17.072 4e68 Recovering log #3
-2026/08/01-21:29:17.073 4e68 Reusing old log C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\Sync Data\LevelDB/000003.log 
->>>>>>> Mavelle
