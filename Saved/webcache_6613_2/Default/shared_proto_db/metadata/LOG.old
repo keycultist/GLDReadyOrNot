@@ -1,3 +1,9 @@
+<<<<<<< Updated upstream
 2026/08/03-14:54:34.183 6dc8 Reusing MANIFEST C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\shared_proto_db\metadata/MANIFEST-000001
 2026/08/03-14:54:34.183 6dc8 Recovering log #3
 2026/08/03-14:54:34.183 6dc8 Reusing old log C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\shared_proto_db\metadata/000003.log 
+=======
+2026/08/03-23:42:05.798 a6dc Reusing MANIFEST C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/08/03-23:42:05.799 a6dc Recovering log #3
+2026/08/03-23:42:05.799 a6dc Reusing old log C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\shared_proto_db\metadata/000003.log 
+>>>>>>> Stashed changes
