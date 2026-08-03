@@ -1896,3 +1896,6 @@ FPackageName: Skipped package /Game/Mavelle_Import/Material has a valid, mounted
 [2026.08.03-13.12.38:969][148]LogNFORDenoise: NFORDenoise function shutting down
 [2026.08.03-13.12.38:970][148]LogXGEController: Cleaning working directory: C:/Users/lenovo/AppData/Local/Temp/UnrealXGEWorkingDir/
 [2026.08.03-13.12.38:972][148]LogPakFile: Destroying PakPlatformFile
+[2026.08.03-13.12.39:261][148]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.08.03-13.12.39:305][148]LogExit: Exiting.
+[2026.08.03-13.12.39:328][148]Log file closed, 08/03/26 21:12:39
