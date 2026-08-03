@@ -1870,3 +1870,6 @@ Script Stack (2 frames) :
 [2026.08.03-18.10.46:003][223]LogNFORDenoise: NFORDenoise function shutting down
 [2026.08.03-18.10.46:018][223]LogXGEController: Cleaning working directory: C:/Users/woozh/AppData/Local/Temp/UnrealXGEWorkingDir/
 [2026.08.03-18.10.46:024][223]LogPakFile: Destroying PakPlatformFile
+[2026.08.03-18.10.46:602][223]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.08.03-18.10.46:746][223]LogExit: Exiting.
+[2026.08.03-18.10.46:769][223]Log file closed, 08/04/26 02:10:46
