@@ -1,5 +1,0 @@
-[12640:28540:0731/190847.744:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[12640:27508:0731/190847.969:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[12640:28540:0731/190848.042:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[29108:17640:0731/190855.919:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-02471C1B5BDE56690890928B6BE5B657 will be ignored
-[12640:28540:0731/190911.783:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
