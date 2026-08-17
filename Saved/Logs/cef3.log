@@ -1,16 +1,35 @@
-<<<<<<< Updated upstream
-[52276:45576:0803/182144.723:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[52276:49004:0803/182144.769:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[52276:45576:0803/182144.792:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[39344:24816:0803/182149.533:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A64C2C7D5996B59A2BA34B5C2FB1FA8B will be ignored
-[52276:45576:0803/193808.210:ERROR:device_event_log_impl.cc(196)] [19:38:08.205] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[52276:45576:0803/194157.925:ERROR:device_event_log_impl.cc(196)] [19:41:57.812] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[52276:45576:0803/201950.082:ERROR:device_event_log_impl.cc(196)] [20:19:50.046] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[52276:45576:0803/211237.944:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
-=======
-[10944:33944:0803/234853.824:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[10944:3236:0803/234853.864:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[10944:33944:0803/234853.885:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[22148:27960:0803/234857.705:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A33BF4EFE22ED720672DA0DB5A4BA827 will be ignored
-[10944:33944:0803/234904.604:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
->>>>>>> Stashed changes
+[28100:28104:0804/104054.867:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[28100:7684:0804/104054.918:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[28100:28104:0804/104054.949:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[28100:21776:0804/104057.835:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\shared_proto_db\metadata: IO error: C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28100:21776:0804/104057.840:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\shared_proto_db\metadata: IO error: C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28100:21776:0804/104057.844:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\shared_proto_db\metadata: IO error: C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28100:21776:0804/104057.846:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\shared_proto_db\metadata: IO error: C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28100:21776:0804/104058.462:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28100:21776:0804/104058.466:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15628:12868:0804/104059.961:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-FA388F250DBE2A44E569CB1E8DBFC595 will be ignored
+[28100:7684:0804/171204.181:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[7844:29412:0804/171204.193:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[28100:7684:0804/193355.985:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[7844:26920:0804/193356.706:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[28100:7684:0804/193359.008:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[7844:26920:0804/193359.052:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[28100:7684:0804/193359.080:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[28100:7684:0804/193359.121:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[7844:26920:0804/193359.123:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[28100:7684:0804/193359.148:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[7844:26920:0804/193359.163:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[28100:7684:0804/193359.176:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[7844:26920:0804/193359.194:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[28100:28104:0804/193413.982:ERROR:device_event_log_impl.cc(196)] [19:34:13.756] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[28100:28104:0804/222532.799:ERROR:device_event_log_impl.cc(196)] [22:25:32.558] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[28100:28104:0805/175608.921:ERROR:device_event_log_impl.cc(196)] [17:56:08.750] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[28100:28104:0806/085929.944:ERROR:device_event_log_impl.cc(196)] [08:59:29.816] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[28100:28104:0806/133615.150:ERROR:device_event_log_impl.cc(196)] [13:36:15.054] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[28100:28104:0806/194017.325:ERROR:device_event_log_impl.cc(196)] [19:40:17.316] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[28100:28104:0806/220100.159:ERROR:device_event_log_impl.cc(196)] [22:01:00.023] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[28100:28104:0807/000849.173:ERROR:device_event_log_impl.cc(196)] [00:08:49.172] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[28100:28104:0807/000910.972:ERROR:device_event_log_impl.cc(196)] [00:09:10.969] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[28100:28104:0807/011750.191:ERROR:device_event_log_impl.cc(196)] [01:17:50.186] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[28100:28104:0807/114350.597:ERROR:device_event_log_impl.cc(196)] [11:43:50.554] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[28100:28104:0807/122302.071:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

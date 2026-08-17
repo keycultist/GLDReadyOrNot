@@ -1,14 +1,3 @@
-<<<<<<< Updated upstream
-2026/08/03-18:21:44.859 a094 Reusing MANIFEST C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\Local Storage\leveldb/MANIFEST-000001
-2026/08/03-18:21:44.865 a094 Recovering log #19
-2026/08/03-18:21:44.868 a094 Reusing old log C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\Local Storage\leveldb/000019.log 
-=======
-2026/08/03-23:48:53.943 8b38 Reusing MANIFEST C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\Local Storage\leveldb/MANIFEST-000001
-2026/08/03-23:48:53.949 8b38 Recovering log #19
-2026/08/03-23:48:53.949 8b38 Level-0 table #21: started
-2026/08/03-23:48:53.955 8b38 Level-0 table #21: 69790 bytes OK
-2026/08/03-23:48:53.956 8b38 Recovering log #21
-2026/08/03-23:48:53.958 8b38 Reusing old log C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\Local Storage\leveldb/000021.log 
-2026/08/03-23:48:53.961 8b38 Delete type=0 #19
-2026/08/03-23:48:53.962 8b38 Delete type=2 #22
->>>>>>> Stashed changes
+2026/08/04-10:40:55.018 692c Reusing MANIFEST C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\Local Storage\leveldb/MANIFEST-000001
+2026/08/04-10:40:55.024 692c Recovering log #21
+2026/08/04-10:40:55.026 692c Reusing old log C:\Users\lenovo\Documents\GitHub\GLDReadyOrNot\Saved\webcache_6613_2\Default\Local Storage\leveldb/000021.log 
